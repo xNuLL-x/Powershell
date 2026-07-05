@@ -1,0 +1,1 @@
+powershell.exe -EncodedCommand YwBtAGQALgBlAHgAZQAgAC8AQwAgAGMAYQBsAGMA
